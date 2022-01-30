@@ -5,6 +5,10 @@ import org.junit.Test;
 
 public class RhymersJUnitTest {
 
+	/*
+	*	Every test was successful
+	*/
+	
 	@Test
 	public void testCountIn() {
 		DefaultCountingOutRhymer rhymer = new DefaultCountingOutRhymer();
